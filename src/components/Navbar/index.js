@@ -5,8 +5,12 @@ import './Navbar.css';
 const App = () => {
   return (
 
-        <Navbar className='navbar-custom-styles'  bg="light" expand="lg">
-            <Navbar.Brand href="/">DHF</Navbar.Brand>
+        <Navbar
+        bg="secondary" 
+        expand="lg"
+        className="h2"
+        >
+            <Navbar.Brand href="/"><span className="h1">DHF</span></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">

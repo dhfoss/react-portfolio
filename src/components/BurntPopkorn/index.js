@@ -14,8 +14,6 @@ import { Link } from 'react-router-dom';
 //     padding: '20px',
 //     transform: 'translate(-50%, -50%)'
 //   }
-  
-
 
 const BurntPopkorn = () => {
     return (

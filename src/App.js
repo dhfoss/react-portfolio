@@ -13,7 +13,6 @@ import GoogleFontLoader from 'react-google-font-loader';
 
 function App() {
   return (
-
     <>
     <GoogleFontLoader 
     fonts={[

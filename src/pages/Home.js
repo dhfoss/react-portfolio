@@ -1,8 +1,12 @@
 import React from 'react';
+import Greetings from '../components/Greetings';
+import './Home.css';
 
 const Home = () => {
     return(
-        <div>Hello from the home page</div>
+        <>
+            <Greetings />
+        </>
     )
 }
 

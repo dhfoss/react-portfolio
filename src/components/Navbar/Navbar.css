@@ -1,3 +1,7 @@
-/* .navbar-custom-styles {
-    color: white;
-} */
+.color-nav {
+    color: red;
+}
+
+#custum-nav {
+    color: blue;
+}
