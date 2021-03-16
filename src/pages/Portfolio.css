@@ -10,7 +10,7 @@
 }
 
 .external__link:hover {
-    color: black;
+    color: red;
 }
 
 .disabled-link:hover {

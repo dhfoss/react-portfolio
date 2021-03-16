@@ -21,7 +21,7 @@ const EmployeeDirectory = () => {
                 <Parallax
                 bgImage={employees}
                 strength={-300}
-                bgImageAlt="Minion Mingle"
+                bgImageAlt="Employee Directory"
                 >
                     <div style={inlineStyle}>
                         Employee Directory
@@ -32,9 +32,6 @@ const EmployeeDirectory = () => {
                 <h2 className='mt-2'>A react app for sorting and filtering employee data from Random User Generator API</h2>
                 <h3> <a className='external__link' href='https://dhfoss.github.io/employee-directory/' target='_blank'>Employee Directory</a> || <a href='https://github.com/dhfoss/employee-directory' className='external__link' target='_blank'>Repository</a></h3>
             </div>
-
-
-            <div style={{ height: '50vh' }} />
         </div>
 
         

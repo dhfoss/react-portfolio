@@ -2,6 +2,7 @@ import React from 'react';
 import BurntPopkorn from '../components/BurntPopkorn';
 import EmployeeDirectory from '../components/EmployeeDirectory';
 import MinionMingle from '../components/MinionMingle';
+import WeatherDashboard from '../components/WeatherDashboard';
 import './Portfolio.css'
 
 const Portfolio = () => {
@@ -17,6 +18,9 @@ const Portfolio = () => {
             <MinionMingle />
             <div style={{ height: '25vh' }} />
             <EmployeeDirectory />
+            <div style={{ height: '25vh' }} />
+            <WeatherDashboard />
+            <div style={{ height: '25vh' }} />
         </>
     )
 }

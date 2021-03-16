@@ -18,7 +18,7 @@ const MinionMingle = () => {
                 </Parallax>
             </a>
             <div className='container container-fluid'>
-                <h2 className='mt-2'>A whimsical dating website using a SQL database, with private messaging and public chatrooms.</h2>
+                <h2 className='mt-2'>A whimsical dating website using a SQL database, with private messaging and public chatrooms</h2>
                 <h3> <a className='external__link' href='https://mingle-minion.herokuapp.com/' target='_blank'>Minion Mingle</a> || <a href='https://github.com/dhfoss/Dating-Website' className='external__link' target='_blank'>Repository</a></h3>
             </div>
 
