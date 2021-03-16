@@ -5,7 +5,7 @@ import { Parallax } from 'react-parallax';
 
 const MinionMingle = () => {
     return (
-        <div>  
+        <div id="minionMingle">  
             <a href='https://mingle-minion.herokuapp.com/' target='_blank'>
                 <Parallax
                 bgImage={minion}

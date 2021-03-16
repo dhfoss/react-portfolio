@@ -16,7 +16,7 @@ const inlineStyle = {
 const WeatherDashboard = () => {
     return (
         <div>  
-            <a className='disabled-link' href='https://dhfoss.github.io/Weather-Dashboard/' target='_blank'>
+            <a className='disabled-link' id="weatherDashboard" href='https://dhfoss.github.io/Weather-Dashboard/' target='_blank'>
                 <Parallax
                 bgImage={lightning}
                 strength={-300}

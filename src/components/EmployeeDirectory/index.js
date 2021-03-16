@@ -13,7 +13,7 @@ const inlineStyle = {
 const EmployeeDirectory = () => {
     return (
         <div> 
-            <a className='disabled-link' href='https://dhfoss.github.io/employee-directory/' target='_blank'>
+            <a className='disabled-link' id="employeeDirectory" href='https://dhfoss.github.io/employee-directory/' target='_blank'>
                 <Parallax
                 bgImage={employees}
                 strength={-300}

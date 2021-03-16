@@ -17,7 +17,7 @@ import { Link } from 'react-router-dom';
 
 const BurntPopkorn = () => {
     return (
-        <div className='burntPopkornContainer' style={{ textAlign: 'center' }}>
+        <div className='burntPopkornContainer' id="burntPopkorn" style={{ textAlign: 'center' }}>
             <a href='https://burntpopkorn.herokuapp.com/' target='_blank'>
                 <Parallax
                 bgImage={popcorn}
