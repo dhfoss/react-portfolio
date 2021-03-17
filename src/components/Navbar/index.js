@@ -1,6 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
 import './Navbar.css';
+import resumePDF from '../../images/Hawthorne-Foss_Resume.pdf'
 
 const App = () => {
   return (
@@ -25,7 +26,7 @@ const App = () => {
                         <NavDropdown.Item href="/portfolio#weatherDashboard">Weather Dashboard</NavDropdown.Item>
                     </NavDropdown>
 
-                    <Nav.Link className="mr-3" href="/resume">Resume</Nav.Link>
+                    <Nav.Link className="mr-3" href={resumePDF} target="_blank">Resume</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>

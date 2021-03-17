@@ -7,12 +7,15 @@ const Home = () => {
     return(
         <>
             <Greetings />
+            <div style={{ height: '20vh' }} />
+
             <div className="container">
                 <div className="row my-5">
                     <div className="col-md-4">
                         <img className="rounded shadow-lg" id="dhf_headshot" src={headshot} alt="Hawthorne-Foss Headshot"/>
                     </div>
                     <div className="col-md-8">
+                        <h1>About Me</h1>
                         <p className="h4 mt-5 ml-5">I am a full stack web developer living in Ann Arbor, Michigan drawing on ten years of experience in 
                             music education, community outreach, and performance. I'm a passionate lifelong learner, and have 
                             a proven ability to absorb new technologies and languages. With a certificate from Michigan State 
