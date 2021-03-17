@@ -1,6 +1,7 @@
 .heading, h2, h3 {
     font-weight: 500;
-    color: #d9d9d9d0;
+    color: #d9e2efd0;
+    /* color: #d9d9d9d0; */
     text-align: center;
     margin-top: 20px;
 }
@@ -15,4 +16,8 @@
 
 .disabled-link:hover {
     text-decoration: none;
+}
+
+.social-links {
+    text-align: center;
 }

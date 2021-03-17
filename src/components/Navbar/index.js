@@ -8,7 +8,7 @@ const App = () => {
         <Navbar
         bg="secondary" 
         expand="lg"
-        className="h2"
+        className="h2 mb-0"
         >
             <Navbar.Brand href="/"><span className="h1 mr-3">DHF</span></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />

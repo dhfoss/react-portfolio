@@ -1,10 +1,39 @@
 * {
     font-weight: 500;
-    color: #d9d9d9d0;
+    color: #d9e2ef;
+    /* color: #d9d9d9d0; */
+}
 
+p {
+    color: #d9e2ef;
+    font-size: larger;
+}
+
+span, a {
+    color: #d9e2ef;
 }
 
 h1 {
     text-align: center;
     margin-top: 20px;
+}
+
+#dhf_headshot {
+    max-width: 100%;
+}
+
+.external__link {
+    color: #d9e2ef;
+}
+
+.external__link:hover {
+    color: red;
+}
+
+.saxophone-link {
+    color: yellow;
+}
+
+.saxophone-link:hover {
+    color: red;
 }

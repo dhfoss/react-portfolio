@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import { Parallax } from 'react-parallax';
+import macaw from '../../images/macaw.jpg';
 
 const Greetings = () => {
     const [greeting, setGreeting] = useState('Hello');
@@ -15,11 +17,17 @@ const Greetings = () => {
     }, []);
 
     return (
-        <div className='container'>
-            <h1>{greeting}!</h1>
-            <h2>My name is Daniel Hawthorne-Foss</h2>
-            <h3>Welcome to my portfolio</h3>
-        </div>
+        <Parallax
+        bgImage={macaw}
+        strength={100}
+        bgImageAlt={'Sky'}
+        >
+            <div className='container' style={{margin: '200px'}}>
+                <h1>{greeting}!</h1>
+                <h2>My name is <span>Daniel Hawthorne-Foss</span></h2>
+                <h3>Welcome to my portfolio</h3>
+            </div>
+        </Parallax>
     )
 }
 
