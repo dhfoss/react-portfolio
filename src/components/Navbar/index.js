@@ -15,15 +15,15 @@ const App = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                    <Nav.Link className="mr-3" href="/">Home</Nav.Link>
+                    <Nav.Link className="mr-3" href="/react-portfolio/">Home</Nav.Link>
 
                     <NavDropdown className="mr-3" title="Portfolio" id="basic-nav-dropdown">
-                        <NavDropdown.Item href="/portfolio">My Projects</NavDropdown.Item>
+                        <NavDropdown.Item href="/react-portfolio/portfolio">My Projects</NavDropdown.Item>
                         <NavDropdown.Divider />
-                        <NavDropdown.Item href="/portfolio#burntPopkorn">Burnt Popkorn</NavDropdown.Item>
-                        <NavDropdown.Item href="/portfolio#minionMingle">Minion Mingle</NavDropdown.Item>
-                        <NavDropdown.Item href="/portfolio#employeeDirectory">Employee Directory</NavDropdown.Item>
-                        <NavDropdown.Item href="/portfolio#weatherDashboard">Weather Dashboard</NavDropdown.Item>
+                        <NavDropdown.Item href="/react-portfolio/portfolio#burntPopkorn">Burnt Popkorn</NavDropdown.Item>
+                        <NavDropdown.Item href="/react-portfolio/portfolio#minionMingle">Minion Mingle</NavDropdown.Item>
+                        <NavDropdown.Item href="/react-portfolio/portfolio#employeeDirectory">Employee Directory</NavDropdown.Item>
+                        <NavDropdown.Item href="/react-portfolio/portfolio#weatherDashboard">Weather Dashboard</NavDropdown.Item>
                     </NavDropdown>
 
                     <Nav.Link className="mr-3" href={resumePDF} target="_blank">Resume</Nav.Link>

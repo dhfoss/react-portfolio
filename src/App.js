@@ -29,11 +29,11 @@ function App() {
       <Router>
         <Switch>
 
-          <Route exact path='/'>
+          <Route exact path='/react-portfolio/'>
             <Home />
           </Route>
 
-          <Route path='/portfolio'>
+          <Route path='/react-portfolio/portfolio'>
             <Portfolio />
           </Route>
 
