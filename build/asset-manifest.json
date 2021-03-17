@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.521cae22.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.785e7f4c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.785e7f4c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.fae9f92b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fae9f92b.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.fca264ba.chunk.js": "/react-portfolio/static/js/2.fca264ba.chunk.js",
+    "static/js/2.fca264ba.chunk.js.map": "/react-portfolio/static/js/2.fca264ba.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.521cae22.chunk.css.map": "/react-portfolio/static/css/main.521cae22.chunk.css.map",
+    "static/js/2.fca264ba.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fca264ba.chunk.js.LICENSE.txt",
+    "static/media/Hawthorne-Foss_Resume.79312b4d.pdf": "/react-portfolio/static/media/Hawthorne-Foss_Resume.79312b4d.pdf",
+    "static/media/App.css": "/react-portfolio/static/media/background3.3a966176.jpg",
+    "static/media/burntPopkornLogo.6f9453ae.png": "/react-portfolio/static/media/burntPopkornLogo.6f9453ae.png",
+    "static/media/dhf_headshot.2ecdb0e4.png": "/react-portfolio/static/media/dhf_headshot.2ecdb0e4.png",
+    "static/media/employeeDirectory.6680e102.jpg": "/react-portfolio/static/media/employeeDirectory.6680e102.jpg",
+    "static/media/lightning.2dc5197d.jpg": "/react-portfolio/static/media/lightning.2dc5197d.jpg",
+    "static/media/macaw.db213cda.jpg": "/react-portfolio/static/media/macaw.db213cda.jpg",
+    "static/media/minion.bdeb2f3e.jpg": "/react-portfolio/static/media/minion.bdeb2f3e.jpg",
+    "static/media/minionMingleLogo.34c8743f.png": "/react-portfolio/static/media/minionMingleLogo.34c8743f.png",
+    "static/media/popcorn.4eb0c390.jpg": "/react-portfolio/static/media/popcorn.4eb0c390.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae9f92b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fca264ba.chunk.js",
+    "static/css/main.521cae22.chunk.css",
+    "static/js/main.785e7f4c.chunk.js"
+  ]
+}
